@@ -41,7 +41,7 @@ Given a camera $c$, we first use VIVE Pro to capture the location of the four co
 screen $(x_1, y_1, z_1),\dots, (x_4, y_4, z_4)$. The position of the camera $p_c$ is the center 
 of the screen plus hight $h$, which is a constant: 
 
-$$p_c=((x_1+x_3)/2, h, (z_1+z_3)/2)$$
+$$p_c=(\frac{x_1+x_3}{2}, h, \frac{z_1+z_3}{2})$$
 
 
 ## Camera Rotation
