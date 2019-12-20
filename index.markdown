@@ -59,3 +59,8 @@ $$
 $$
 S = \sqrt{(x_1-x_2)^2+(z_1-z_2)^2}
 $$
+
+
+## Model
+
+![](/assets/img/graph.png)
