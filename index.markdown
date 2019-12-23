@@ -1,3 +1,11 @@
+
+# People
+
+Ao Li, MSc, Computer Science, University of Toronto \\
+Mingqi Zhu, MScAC, Computer Science, University of Toronto \\
+Cole Zemel, Undergraduate, Computer Science & Drama, University of Toronto \\
+Shel Sun, Graduate Student, Drama, University of Toronto 
+
 # How To
 
 Download the source code.
@@ -58,11 +66,56 @@ S = \sqrt{(x_1-x_2)^2+(z_1-z_2)^2}
 $$
 
 
-## Model
+# Model
 
 ![](/assets/img/graph.png)
 
-## Script 
+# Script 
 
 Come Good Rain by George B. Seremba
 
+COLE and SHEL take positions
+
+SHEL (to COLE):  Excuse me, could you please not shoot me through the back?  I would prefer to look at you while you are shooting.  Thank you.
+
+PROJECTION:  The first bullet had hit the right leg.  
+
+COLE fires (right leg)
+
+SHEL falls to knees
+	
+PROJECTION:  Before he knew it, the left arm was grazed.
+
+COLE fires (left arm)
+
+PROJECTION:  Another got a bit of skin just above the forehead
+
+COLE fires again (grazes forehead)
+
+PROJECTION:  Never still, and unwilling to give them a clean shot at the chest or the stomach.
+
+PROJECTION:  The next one found his right hand at an angle just over his heart.
+
+COLE fires (right hand, SHEL has hand over heart)
+
+PROJECTION:  Then another through the right thigh.
+
+COLE fires (right thigh)
+
+PROJECTION:  A solid bullet went through his left ankle.
+
+COLE fires (left ankle)
+
+SHEL rolls over
+
+Cue sound of multiple AK 47’s firing (5-7 seconds) then silence
+
+PROJECTION:  It is quiet.  Frighteningly quiet.
+
+Cue rain projection as COLE gets into position to lead the audience in the “snap/slap” soundscape.  
+
+
+
+# Show
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7ITKncfdfjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
